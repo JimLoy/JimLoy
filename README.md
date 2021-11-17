@@ -1,15 +1,25 @@
-### Hi there 👋
+# Hola !!!
 
+Soy un desarrollador fan de JavaScript, interesado en el Back End y con muchas ganas de no parar de aprender.
 
-**JuanMoldes/JuanMoldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools:
+🔸 JavaScript (por si no quedo claro 😁).
+🔸 Node.js.
+🔸 Express.
+🔸 React.
+🔸 Redux.
+🔸 Sequelize.
+🔸 HTML.
+🔸 CSS.
+🔸 PostgreSQL.
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Estamos en contacto? 📫
+
+Linkedin: http://https://www.linkedin.com/in/juanignaciomoldes-js
+Gmail: juanignaciomoldes1@gmail.com
+
+</br>
+
+### Gracias, vuelva pronto   👋

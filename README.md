@@ -9,35 +9,39 @@ Soy un desarrollador web, interesado en el Back End y con muchas ganas de no par
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" height="60" alt="Javascript" />
+      <img src="./assets/javascript.svg" width="60" height="60" alt="Javascript" />
       <br>Javascript
     </td>
     <td align="center" width="100">
-      <img src="https://i.pinimg.com/564x/cd/12/12/cd1212c949eb07ebdd18db8f8cbb350b.jpg" width="60" height="60"  alt="NodeJS" />
+      <img src="./assets/typescript.svg" width="60" height="60" alt="typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="100">
+      <img src="./assets/nodejs.svg" width="60" height="60"  alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="100"> 
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="60" height="60" alt="ExpressJS" />
+      <img src="./assets/expressjs.svg" width="60" height="60" alt="ExpressJS" />
       <br>ExpressJS
     </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60" height="60" alt="ReactJS" />
-      <br>ReactJS
+    <td align="center" width="100"> 
+      <img src="./assets/nestjs.svg" width="60" height="60" alt="Nestjs" />
+      <br>Nest
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60" height="60" alt="Postgresql" />
-      <br>PostgreSQL
+      <img src="./assets/react.svg" width="60" height="60" alt="React" />
+      <br>React
     </td>
     <td align="center"  width="100">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"  alt="Git" />
+      <img src="./assets/git.svg" width="60" height="60"  alt="Git" />
       <br>Git
     </td>
     <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="60" height="60" alt="HTML" />
+      <img src="./assets/html5.svg" width="60" height="60" alt="HTML" />
       <br>HTML 5
     </td>
     <td align="center" width="100">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="60" height="60" alt="CSS" />
+      <img src="./assets/css.svg" width="60" height="60" alt="CSS" />
       <br>CSS 3
     </td>
   </tr>

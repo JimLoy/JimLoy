@@ -25,10 +25,6 @@ Soy un desarrollador web, interesado en el Back End y con muchas ganas de no par
       <br>ReactJS
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="60" height="60" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="60" height="60" alt="Postgresql" />
       <br>PostgreSQL
     </td>

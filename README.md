@@ -24,10 +24,6 @@ Soy un desarrollador web, interesado en el Back End y con muchas ganas de no par
       <img src="./assets/expressjs.svg" width="60" height="60" alt="ExpressJS" />
       <br>ExpressJS
     </td>
-    <td align="center" width="100"> 
-      <img src="./assets/nestjs.svg" width="60" height="60" alt="Nestjs" />
-      <br>Nest
-    </td>
     <td align="center" width="100">
       <img src="./assets/react.svg" width="60" height="60" alt="React" />
       <br>React

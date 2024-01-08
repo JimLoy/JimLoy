@@ -43,12 +43,9 @@ Soy un desarrollador web, interesado en el Back End y con muchas ganas de no par
   </tr>
 </table>
 
-## Estamos en contacto? 📫
+## Contacto 📫
 
 Linkedin: https://www.linkedin.com/in/juanignaciomoldes-js
-
-Gmail: juanignaciomoldes1@gmail.com
-
 
 # Gracias, vuelva pronto   👋
 
